@@ -1,0 +1,9 @@
+node_modules/
+.env
+artifacts/
+cache/
+typechain/
+coverage/
+coverage.json
+frontend/vite-project/node_modules/
+frontend/vite-project/dist/
